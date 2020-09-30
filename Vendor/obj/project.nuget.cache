@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "prI9wV9a1qckhiwaUeyeapwFQSY2uE38e0V5RB70y4qWUvWoVBeLh0nTpe9GeLZKQzlP2WT0S8TTvSB16KFi2Q==",
+  "success": true,
+  "projectFilePath": "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\VendorModule\\Vendor\\Vendor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABHISHEK\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

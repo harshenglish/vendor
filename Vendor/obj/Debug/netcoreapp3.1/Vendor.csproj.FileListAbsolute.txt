@@ -1,0 +1,41 @@
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\staticwebassets\Vendor.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\staticwebassets\Vendor.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.exe
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.deps.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.exe
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.deps.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.pdb
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\staticwebassets\Vendor.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\staticwebassets\Vendor.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.pdb
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.yaml
